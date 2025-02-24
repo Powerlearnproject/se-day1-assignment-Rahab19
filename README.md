@@ -130,7 +130,8 @@ Vague prompt: "Write about history."
 
 Improved Prompt: "Provide a brief overview of the causes and consequences of World War II, highlighting key events and their impact on global politics."
 
-Why the Improved Prompt is More Effective
+Why the Improved Prompt is More Effective.
+
 *More Focused – Instead of a broad topic like "history," the improved prompt narrows it down to "World War II."
 *Clear Expectations – It specifies what aspects to cover (causes, consequences, key events, and global impact).
 *Structured Response – It guides the AI to provide a well-organized answer rather than a random mix of historical facts.
